@@ -1,0 +1,5 @@
+public class Steque<Item> implements Iterable<Item>
+    Steque()
+    void enqueue(Item item)
+    void push(Item item)
+    Item pop()

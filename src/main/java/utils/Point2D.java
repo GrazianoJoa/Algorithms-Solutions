@@ -1,4 +1,4 @@
-package lib;
+package utils;
 
 /******************************************************************************
  *  Compilation:  javac Point2D.java

@@ -1,4 +1,4 @@
-package lib;
+package utils;
 
 /******************************************************************************
  *  Compilation:  javac StdIn.java
